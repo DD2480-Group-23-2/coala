@@ -1,6 +1,8 @@
 .. image:: https://cloud.githubusercontent.com/assets/5716520/24838296/a9cf5f04-1d45-11e7-855c-47b816ce1e09.png
     :target: https://coala.io/
 
+[google docs link](https://docs.google.com/document/d/1ATn52wGKfP9WK6UnFX670RMKDjirGzvb-0VRBk1IZOs/edit?usp=sharing)
+
 =====
 
 :emphasis:`"Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live."` ― `John F. Woods <http://ruby.zigzo.com/2014/08/01/who-said-that-one-violent-psychopath-quote/>`_
